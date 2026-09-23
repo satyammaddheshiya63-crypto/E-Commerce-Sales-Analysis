@@ -60,7 +60,8 @@ I created **34 SQL queries** to analyze different aspects of the e-commerce busi
 
 The complete SQL analysis is available here:
 
-👉 **[View All 34 SQL Queries](SQL/ecommerce_sales_queries.sql)**
+👉 **[View All 34 SQL Queries](ecommerce_sales_queries.sql)**
+
 
 The SQL file contains the queries used to answer different business questions from the dataset.
 
@@ -84,35 +85,84 @@ The Power BI dashboard focuses on important business performance indicators.
 
 # 💡 Business Insights
 
-The analysis helps answer important business questions such as:
+The SQL analysis and Power BI dashboard provide a detailed view of the e-commerce business across sales, profitability, customers, products, categories, regions, returns, discounts, delivery performance, and customer ratings.
 
-### 1. Sales Performance
+### 📈 Sales & Profitability
 
-Analyze total revenue and understand how overall sales are performing.
+* Overall sales, profit, quantity sold, average order value, and profit margin were analyzed to measure the financial performance of the business.
+* Category-level and product-level sales and profit analysis helps identify high-performing and low-performing areas.
+* Products with negative total profit were identified to highlight potential areas for pricing, cost, or discount optimization.
 
-### 2. Order Performance
+### 🛍️ Product & Category Performance
 
-Identify the total number of orders and understand order volume.
+* Product categories were compared based on total sales and profit.
+* Top-selling products were identified using ranking techniques.
+* The top 3 products within each category were identified to understand the strongest products in each category.
+* Product-level profit margins were calculated to distinguish high-revenue products from high-profit products.
 
-### 3. Customer Performance
+### 👥 Customer Analysis
 
-Identify customers contributing significantly to overall sales.
+* Customers were analyzed based on total sales, order frequency, and total profit contribution.
+* Top customers were identified based on total sales.
+* Customers placing more than 5 orders were identified to understand repeat-purchase behavior.
+* High-value customers were identified by comparing customer-level sales with the overall customer sales benchmark.
 
-### 4. Product Performance
+### 🌎 Regional & State Performance
 
-Find products generating higher sales and identify products with lower performance.
+* Sales performance was analyzed across states and regions.
+* The highest-sales customer in each state was identified.
+* The highest-performing category in each region was identified to understand regional product preferences.
+* Average delivery days were calculated for each state to evaluate delivery performance geographically.
 
-### 5. Category Performance
+### 📅 Time-Based Performance
 
-Compare different product categories based on sales and order performance.
+* Monthly sales, orders, profit, and quantity were analyzed to understand sales trends over time.
+* Running total sales were calculated to track cumulative business performance.
+* Year-over-year sales growth was calculated to compare annual performance and identify changes in growth.
 
-### 6. Sales Trends
+### 💳 Sales Channel & Payment Analysis
 
-Analyze how sales change over different months and identify important trends.
+* Different sales channels were compared using orders, sales, and profit.
+* Payment methods were analyzed based on order volume, sales, and profit contribution.
+* This analysis helps understand how customers purchase and which channels contribute to business performance.
 
-### 7. Regional Performance
+### 🔄 Return Analysis
 
-Compare sales performance across different regions.
+* Total orders, returned orders, non-returned orders, and overall return rate were calculated.
+* Return rates were also analyzed by product category.
+* Categories with comparatively higher return rates can be investigated further to understand potential product, quality, delivery, or customer-expectation issues.
+
+### 🎯 Customer Segment & Rating Analysis
+
+* Customer segments were compared using orders, sales, profit, quantity, and average order value.
+* Customer ratings were analyzed against order volume and sales to understand the relationship between customer satisfaction indicators and sales performance.
+
+### 💰 Discount Analysis
+
+* Different discount percentages were analyzed based on orders, sales, and profit.
+* This helps evaluate how discount levels affect revenue and profitability.
+
+### 🏷️ Brand Performance
+
+* Brands were compared using total orders, quantity sold, sales, and profit.
+* Brand-level analysis helps identify brands contributing significantly to overall business performance.
+
+### 📌 Business Decision Areas
+
+The analysis can support business decisions related to:
+
+* Product and category prioritization
+* Pricing and discount strategy
+* Customer retention
+* Regional sales strategy
+* Return-rate reduction
+* Delivery performance improvement
+* Sales-channel optimization
+* Brand performance monitoring
+* Profitability improvement
+
+> **Note:** The insights above describe the analytical findings the project is designed to evaluate. Exact numerical findings should be added from the SQL query outputs or Power BI dashboard.
+
 
 ---
 
@@ -244,7 +294,11 @@ It showcases the complete process of transforming raw e-commerce data into analy
 
 👉 [Open SQL Queries](ecommerce_sales_queries.sql)
 
+https://github.com/satyammaddheshiya63-crypto/E-Commerce-Sales-Analysis/blob/main/ecommerce_sales_queries.sql
+
 ### Power BI Dashboard
+
+
 
 The dashboard screenshot is displayed above.
 
