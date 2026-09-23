@@ -298,7 +298,7 @@ https://github.com/satyammaddheshiya63-crypto/E-Commerce-Sales-Analysis/blob/mai
 
 ### Power BI Dashboard
 
-
+https://github.com/satyammaddheshiya63-crypto/E-Commerce-Sales-Analysis/blob/main/ecommerce_dashboard.png
 
 The dashboard screenshot is displayed above.
 
