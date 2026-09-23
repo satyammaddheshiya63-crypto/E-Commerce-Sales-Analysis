@@ -27,10 +27,8 @@ The project includes **34 SQL queries** and an interactive **Power BI dashboard*
 
 ---
 
-# 📊 Power BI Dashboard
-
-![E-Commerce Sales Dashboard](Dashboard/ecommerce_dashboard.png)
-
+# 📊 Power BI Dashboard 
+Link : 
 https://github.com/satyammaddheshiya63-crypto/E-Commerce-Sales-Analysis/blob/main/ecommerce_dashboard.png
 
 ---
@@ -61,9 +59,7 @@ I created **34 SQL queries** to analyze different aspects of the e-commerce busi
 # 💻 SQL Queries
 
 The complete SQL analysis is available here:
-
-👉 **[View All 34 SQL Queries](ecommerce_sales_queries.sql)**
-
+Link :
 https://github.com/satyammaddheshiya63-crypto/E-Commerce-Sales-Analysis/blob/main/ecommerce_sales_queries.sql
 
 The SQL file contains the queries used to answer different business questions from the dataset.
