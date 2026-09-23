@@ -31,6 +31,8 @@ The project includes **34 SQL queries** and an interactive **Power BI dashboard*
 
 ![E-Commerce Sales Dashboard](Dashboard/ecommerce_dashboard.png)
 
+https://github.com/satyammaddheshiya63-crypto/E-Commerce-Sales-Analysis/blob/main/ecommerce_dashboard.png
+
 ---
 
 # 🔍 SQL Analysis
