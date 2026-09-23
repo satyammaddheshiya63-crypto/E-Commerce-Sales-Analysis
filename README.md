@@ -37,6 +37,8 @@ The project includes **34 SQL queries** and an interactive **Power BI dashboard*
 
 I created **34 SQL queries** to analyze different aspects of the e-commerce business.
 
+https://github.com/satyammaddheshiya63-crypto/E-Commerce-Sales-Analysis/blob/main/ecommerce_sales_queries.sql
+
 ### Key Analysis Areas
 
 * Total Orders
